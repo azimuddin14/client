@@ -1,0 +1,164 @@
+#+1505754267
+cd /usr/portss
+#+1505754270
+cd /usr/ports
+#+1505754272
+exit
+#+1505756028
+java
+#+1505756035
+javac
+#+1505756068
+javac
+#+1505756077
+cd
+#+1505756086
+javac
+#+1505756109
+:
+#+1505756112
+cd
+#+1505756115
+ruby
+#+1505756173
+cc
+#+1505924053
+ruby
+#+1505924078
+java
+#+1505924084
+javac
+#+1505924323
+ruby -v
+#+1505924338
+ruby
+#+1505926303
+exit
+#+1507667670
+./a.out 192.168.40.131
+#+1507667727
+ee
+#+1507667748
+ls
+#+1507667758
+cc client.c
+#+1507667767
+ee client.c
+#+1507667797
+./a.out 192.168.40.131
+#+1507667828
+./a.out 192.168.40.131 56000
+#+1507667881
+./a.out 192.168.40.131 56000
+#+1507667961
+./a.out 192.168.40.131 2200
+#+1507668816
+adduser
+#+1507668858
+exit
+#+1507673398
+ee
+#+1507674178
+cc ClienT.c
+#+1507674267
+ee Client.c
+#+1507674299
+ee ClienT.c
+#+1507674369
+cc ClienT.c
+#+1507674427
+./a.out 192.168.40.131 56765
+#+1507677315
+ee
+#+1507678997
+ls
+#+1507679008
+javac client.java
+#+1507679134
+ee client.java
+#+1507679203
+javac client.java
+#+1507681821
+ee client.java
+#+1507682389
+l
+#+1507682390
+ls
+#+1507682398
+javac client.java
+#+1507682622
+ee client.java
+#+1507682649
+javac client.java
+#+1507682717
+java client
+#+1507682745
+ee client.java
+#+1507682775
+javac client.java
+#+1507682783
+java client
+#+1507682888
+ee client.java
+#+1507682919
+java client
+#+1507683079
+exit
+#+1507725516
+ee
+#+1507725791
+ruby client.rb
+#+1507725875
+ee client.rb
+#+1507725925
+ruby client.rb
+#+1507726026
+./client.rb
+#+1507726116
+ruby client.rb
+#+1507726150
+ee client.rb
+#+1507726260
+ruby client.rb
+#+1507726265
+ls
+#+1507726380
+exit
+#+1507727542
+ee client.rb
+#+1507727552
+ruby client.rb
+#+1507727588
+ee client.rb
+#+1507727695
+ruby ./client.rb
+#+1507727712
+ee client.rb
+#+1507727950
+ruby ./client.rb
+#+1507728044
+ee client.rb
+#+1507728370
+ruby ./client.rb
+#+1507728525
+exit
+#+1507728542
+ruby ./client.rb
+#+1507728559
+ee client.rb
+#+1507728991
+cc ClienT.c
+#+1507729010
+./a.out 192.168.40.131 55000
+#+1507729223
+javac client.java
+#+1507729235
+java client
+#+1507729461
+ee client.rb
+#+1507729824
+./out.a 192.168.40.131 55000
+#+1507729852
+./a.out 192.168.40.131 55000
+#+1507729917
+exit
